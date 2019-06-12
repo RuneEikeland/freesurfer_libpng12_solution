@@ -26,4 +26,4 @@ Link to freesurfer software: https://surfer.nmr.mgh.harvard.edu/
    sudo cp lib/x86_64-linux-gnu/* /usr/lib/x86_64-linux-gnu
  
  
-# 5: The problem should now be fixed
+# 5: The problem should now be fixed.
