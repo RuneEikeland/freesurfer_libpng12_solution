@@ -9,7 +9,6 @@ Link to freesurfer software: https://surfer.nmr.mgh.harvard.edu/
 1: Download libpng12-0_1.2.54-1ubuntu1_amd64.deb 
    
    https://github.com/RuneEikeland/freesurfer_libpng12_solution/blob/master/libpng12-0_1.2.54-1ubuntu1_amd64.deb
-   
 
 
 2: Extract libpng12-0_1.2.54-1ubuntu1_amd64.deb
