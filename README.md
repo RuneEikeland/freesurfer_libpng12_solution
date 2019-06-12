@@ -21,9 +21,9 @@ Link to freesurfer software: https://surfer.nmr.mgh.harvard.edu/
    tar -xJf data.tar.xz
 
 
-# 4: Copy libpng12.so.0 and libpng12.so.0.54.0 from extracted folders lib/x86_64-linux-gnu/ into /usr/lib/x86_64-linux-gnu:
+# 4: Copy libpng12.so.0 and libpng12.so.0.54.0 to /usr/lib/x86_64-linux-gnu:
 
    sudo cp lib/x86_64-linux-gnu/* /usr/lib/x86_64-linux-gnu
  
  
-# 5: The problem should now be fixed.
+# 5: The problem should now be fixed
